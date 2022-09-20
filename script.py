@@ -15,7 +15,7 @@ def main():
 
     if len(sys.argv) != 2:
         print()
-        print('Usage: python test.py IP_ADDRESS')
+        print('Usage: python script.py IP_ADDRESS')
         exit()
 
     force = False
